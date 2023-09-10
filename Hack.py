@@ -1,3 +1,3 @@
-from RASHID import Main_AMUGHAL
-Main_AMUGHAL()
+from RASHID import approval
+approval()
     
